@@ -1,0 +1,9 @@
+8
+Paper Scissor
+Scissor Paper
+Paper Rock
+Scissor Scissor
+Paper Paper
+Paper Scissor
+Rock Paper
+Paper Rock
